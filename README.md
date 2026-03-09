@@ -2,7 +2,9 @@
 Testar a aplicação para cadastro de cursos.
 
 <img width="469" height="256" alt="Curso IA" src="https://github.com/user-attachments/assets/e4d2a022-5953-402e-a18b-25c71390aa30" />
-![excel](https://github.com/user-attachments/assets/caf14bb9-a0cc-48bf-91a8-9922b7061d6a)
+
+![excel](https://github.com/user-attachments/assets/0611405b-d641-42f5-91c2-4212f93acbe4)
+
 
 Qual você acredita ser o objetivo da aplicação?
 Cadastro de cursos, online e presencial, listando esses cursos cadastrados. Apenas não ficou claro se é para o ususairo final, ou um plataforma para escolas ou instituições de ensino. Assim os testes foram executados de forma que tivesse uma visão usuario final (cliente) e professores.
