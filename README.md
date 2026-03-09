@@ -1,6 +1,7 @@
 # DESAFIO-QA-BEEDOO-2026
 Testar a aplicação para cadastro de cursos.
-<img width="1408" height="768" alt="Curso IA" src="https://github.com/user-attachments/assets/e4d2a022-5953-402e-a18b-25c71390aa30" />
+
+<img width="469" height="256" alt="Curso IA" src="https://github.com/user-attachments/assets/e4d2a022-5953-402e-a18b-25c71390aa30" />
 ![excel](https://github.com/user-attachments/assets/caf14bb9-a0cc-48bf-91a8-9922b7061d6a)
 
 Qual você acredita ser o objetivo da aplicação?
@@ -13,3 +14,6 @@ Quais pontos do sistema você considera mais críticos para teste?
 Acredito que não é critico para testes, mas para usabilidade do usuario.
 Com os ponto levantados como, campos em branco, datas incorretas, e uso de caracteres nos campos, implica num cadastro correto, sendo necessario exclusão e efeutar novo cadastro. Porém não exclui na tela de Listar curso. 
 Erros de digitação pode acontecer, então seria importante ter botãode Editar no Lista de Cursos. 
+
+Link Google Sheets:
+https://docs.google.com/spreadsheets/d/13HX5yXyZ0B7Rq9wdVFT1YNkcBhXLmFqUXnlNRwKIiAY/edit?usp=sharing
