@@ -3,7 +3,7 @@ Testar a aplicação para cadastro de cursos.
 
 <img width="469" height="256" alt="Curso IA" src="https://github.com/user-attachments/assets/e4d2a022-5953-402e-a18b-25c71390aa30" />
 
-![excel](https://github.com/user-attachments/assets/0611405b-d641-42f5-91c2-4212f93acbe4)
+<img width="469" height="256" alt="Curso IA" src=(https://github.com/user-attachments/assets/0611405b-d641-42f5-91c2-4212f93acbe4)/>
 
 
 Qual você acredita ser o objetivo da aplicação?
